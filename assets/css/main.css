@@ -41,13 +41,13 @@ svg,img { max-width: 100%; height: auto; }
 .ds-header.ds-header-home.ds-fixed-header{ box-shadow: none; background-color: transparent; }
 
 .ds-logo{ display: inline-block; text-transform: uppercase; font-size: 24px; font-weight: 700; color: #000; position: relative;z-index: 2; }
-.ds-logo span{ color:#FF575E; }
+.ds-logo span{ color:#ac2099; }
 .ds-logo:hover{ color: #000; }
 
 .ds-header-inner{ display: flex; justify-content: space-between; align-items: center; position: relative; z-index: 1; }
 .ds-back-button{ display: inline-block; font-weight: 600; font-size: 14px; }
 .ds-back-button i{ display: inline-block; vertical-align: middle; }
-.ds-back-button:hover{ color:#FF575E ; }
+.ds-back-button:hover{ color:#ac2099 ; }
 
 /*-----------------------------------------------------------------
   2. >>> Banner Style
@@ -58,14 +58,14 @@ svg,img { max-width: 100%; height: auto; }
 .ds-banner h1{ font-weight: 700; font-size: 40px; line-height: 60px; margin-bottom: 14px; }
 .ds-banner p{ font-size: 20px; line-height: 30px; color: #707278; margin-bottom: 22px;width: 80%; }
 .ds_more_button{ font-size: 16px; font-weight: 600; color: #000; }
-.ds_more_button:hover{ color: #FF575E; }
-.ds_more_button i{ display: inline-block; vertical-align: middle; color: #FF575E; }
+.ds_more_button:hover{ color: #ac2099; }
+.ds_more_button i{ display: inline-block; vertical-align: middle; color: #ac2099; }
 /*-----------------------------------------------------------------
   3. >>> Features Style
 ----------------------------------------------------------------*/
 .ds-features{ padding-top: 80px; }
 .ds-heading{ font-size: 16px; line-height: 20px; letter-spacing: 2.67px; font-weight: 700; text-transform: uppercase; position: relative;margin-bottom: 26px; }
-.ds-heading-broder:before{ content: ""; background-color: #FF575E; width: 30px; height: 3px; display: inline-block; vertical-align: middle; margin-right: 20px; }
+.ds-heading-broder:before{ content: ""; background-color: #ac2099; width: 30px; height: 3px; display: inline-block; vertical-align: middle; margin-right: 20px; }
 .ds-features p{ color: #707278; font-size: 16px; line-height: 30px;width: 60%;}
 .ds-features-loges{ list-style: none; padding: 0; margin: 0 -15px; display: flex; flex-wrap: wrap;align-items: center; }
 .ds-features-loges li{ width: 33.33%; padding: 0 15px; margin-bottom: 70px; }
@@ -75,7 +75,7 @@ svg,img { max-width: 100%; height: auto; }
 ----------------------------------------------------------------*/
 .ds-about{ padding-top: 126px; padding-bottom:80px; }
 .ds-about section{ padding-bottom: 80px; }
-.ds-about section p{color:rgba(0,0,0,0.7); font-size: 16px; line-height: 30px; margin-bottom:26px ;}
+.ds-about section p{color:rgba(0,0,0,0.7); font-size: 20px; line-height: 30px; margin-bottom:26px ;}
 .ds-about section p strong{ font-weight: 500; font-size: 20px; line-height: 36px; color: #000; }
 .ds-about section p:last-child{ margin-bottom: 0; }
 
@@ -83,7 +83,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-book-section figure{ width: 170px; }
 .ds-book-content{ width:60%; padding-left: 30px; }
 .ds-book-section h2{ font-size: 20px; line-height: 30px; font-weight: 600; margin-bottom: 24px; }
-.ds-downloade-button{ display: inline-block; color: #FFF; font-size: 16px; font-weight: 600; padding: 20px 38px; background-color: #FF575E; border-radius: 5px; }
+.ds-downloade-button{ display: inline-block; color: #FFF; font-size: 16px; font-weight: 600; padding: 20px 38px; background-color: #ac2099; border-radius: 5px; }
 .ds-downloade-button:hover{ background-color: #000; color: #FFF; }
 /*-----------------------------------------------------------------
  5. >>> Investment Style
@@ -113,7 +113,7 @@ svg,img { max-width: 100%; height: auto; }
 
 .ds-blog-button{ text-align: right; padding-bottom: 30px; }
 .ds-blog-button .ds-more-button{ display: inline-block; font-size: 18px; font-weight: 500; color: #000; }
-.ds-blog-button .ds-more-button:hover{color:#FF575E;}
+.ds-blog-button .ds-more-button:hover{color:#ac2099;}
 .ds-blog-button .ds-more-button i{ display: inline-block; vertical-align: middle; }
 
 
@@ -125,8 +125,8 @@ svg,img { max-width: 100%; height: auto; }
 .ds-blog-loop-sec section{ padding:30px 0; }
 .ds-blog-loop-sec h2{font-size: 18px; line-height: 26px; margin-bottom: 0;}
 .ds-blog-loop-sec h2 a{  color: #000; }
-.ds-blog-loop-sec h2 a:hover{  color:#FF575E; }
-.ds-blog-loop:hover h2 a{  color:#FF575E; }
+.ds-blog-loop-sec h2 a:hover{  color:#ac2099; }
+.ds-blog-loop:hover h2 a{  color:#ac2099; }
 .ds-post-date{ display:block; text-transform: uppercase; color: rgba(0,0,0,0.7); font-size: 12px; letter-spacing: 2px; margin-bottom: 15px; }
 .ds-blog-section-listing .ds-blog-loop{ margin-bottom: 60px; }
 
@@ -163,7 +163,7 @@ svg,img { max-width: 100%; height: auto; }
 .form-control:focus{outline: none; box-shadow: none;}
 textarea.form-control{ height: 110px; }
 .ds-comment-button{ display: inline-block; border-radius: 0; border: none; outline: none; background-color: #000; border-radius: 3px; color: #FFF; font-size: 16px; padding: 8px 23px; }
-.ds-comment-button:hover{ background-color:#FF575E; color: #FFF; }
+.ds-comment-button:hover{ background-color:#ac2099; color: #FFF; }
 
 /*-----------------------------------------------------------------
   7. >>> Footer Style
@@ -173,7 +173,7 @@ textarea.form-control{ height: 110px; }
 .ds-social{ list-style: none; padding: 0; margin: 0 -10px; flex-wrap: wrap; display:flex; align-items: center; justify-content:center; }
 .ds-social li{ padding: 0 10px; }
 .ds-social li a{ color: #000; font-size:24px; }
-.ds-social li a:hover{ color: #FF575E; }
+.ds-social li a:hover{ color: #ac2099; }
 .ds-copyright{ color: #2B2B2B; font-size: 16px;display: block; margin-top: 40px; }
 /*-------------------------------------------------------------------------------
  Responsive XS Style @media (max-width: 767px) 
